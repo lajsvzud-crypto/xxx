@@ -1,4 +1,4 @@
-herename: VPS
+name: VPS
 on:
   workflow_dispatch:
 jobs:
